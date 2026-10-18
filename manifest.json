@@ -1,0 +1,24 @@
+{
+  "name": "BarStock AI - Business Management for Bars & Restaurants",
+  "short_name": "BarStock AI",
+  "description": "AI-powered stock, sales, and inventory tracking for eateries, bars & restaurants.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#f77316",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

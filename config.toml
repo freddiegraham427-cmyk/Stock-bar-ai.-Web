@@ -1,0 +1,2 @@
+[functions.paystack-checkout]
+verify_jwt = true
